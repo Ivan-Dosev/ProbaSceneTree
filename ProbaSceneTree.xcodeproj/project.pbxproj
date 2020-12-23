@@ -13,6 +13,27 @@
 		CCCAF5D4259301F3007DB903 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCCAF5D3259301F3007DB903 /* Preview Assets.xcassets */; };
 		CCCAF5DF259301F4007DB903 /* ProbaSceneTreeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF5DE259301F4007DB903 /* ProbaSceneTreeTests.swift */; };
 		CCCAF5EA259301F4007DB903 /* ProbaSceneTreeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF5E9259301F4007DB903 /* ProbaSceneTreeUITests.swift */; };
+		CCCAF5FB25930324007DB903 /* ArdaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF5FA25930324007DB903 /* ArdaView.swift */; };
+		CCCAF60E259306B1007DB903 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF601259306B1007DB903 /* Animation.swift */; };
+		CCCAF60F259306B1007DB903 /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF602259306B1007DB903 /* ShapeView.swift */; };
+		CCCAF610259306B1007DB903 /* CAKeyframeAnimation+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF603259306B1007DB903 /* CAKeyframeAnimation+Extension.swift */; };
+		CCCAF611259306B1007DB903 /* CAMediaTimingFunction+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF604259306B1007DB903 /* CAMediaTimingFunction+Extension.swift */; };
+		CCCAF612259306B1007DB903 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF605259306B1007DB903 /* TextView.swift */; };
+		CCCAF613259306B1007DB903 /* CGPath+SVG.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF606259306B1007DB903 /* CGPath+SVG.swift */; };
+		CCCAF614259306B1007DB903 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF607259306B1007DB903 /* UIView+Extension.swift */; };
+		CCCAF615259306B1007DB903 /* NSMutableParagraphStyle+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF608259306B1007DB903 /* NSMutableParagraphStyle+Extension.swift */; };
+		CCCAF616259306B1007DB903 /* Timeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF609259306B1007DB903 /* Timeline.swift */; };
+		CCCAF617259306B1007DB903 /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF60A259306B1007DB903 /* UIImage+Extension.swift */; };
+		CCCAF618259306B1007DB903 /* Sound.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF60B259306B1007DB903 /* Sound.swift */; };
+		CCCAF619259306B1007DB903 /* NSShadow+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF60C259306B1007DB903 /* NSShadow+Extension.swift */; };
+		CCCAF61A259306B1007DB903 /* CATransaction+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF60D259306B1007DB903 /* CATransaction+Extension.swift */; };
+		CCCAF62025930727007DB903 /* Tree18View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF61E25930727007DB903 /* Tree18View.swift */; };
+		CCCAF62125930727007DB903 /* Timeline_18.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF61F25930727007DB903 /* Timeline_18.swift */; };
+		CCCAF6262593077F007DB903 /* TreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF6252593077F007DB903 /* TreeView.swift */; };
+		CCCAF62B25931042007DB903 /* TreeScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF62A25931042007DB903 /* TreeScene.swift */; };
+		CCCAF63025931191007DB903 /* TreeDeadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCAF62F25931191007DB903 /* TreeDeadView.swift */; };
+		CCCAF636259314C0007DB903 /* MagikScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = CCCAF634259314C0007DB903 /* MagikScene.sks */; };
+		CCCAF637259314C0007DB903 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCCAF635259314C0007DB903 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +66,27 @@
 		CCCAF5E5259301F4007DB903 /* ProbaSceneTreeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProbaSceneTreeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCCAF5E9259301F4007DB903 /* ProbaSceneTreeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProbaSceneTreeUITests.swift; sourceTree = "<group>"; };
 		CCCAF5EB259301F4007DB903 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CCCAF5FA25930324007DB903 /* ArdaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArdaView.swift; sourceTree = "<group>"; };
+		CCCAF601259306B1007DB903 /* Animation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
+		CCCAF602259306B1007DB903 /* ShapeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
+		CCCAF603259306B1007DB903 /* CAKeyframeAnimation+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CAKeyframeAnimation+Extension.swift"; sourceTree = "<group>"; };
+		CCCAF604259306B1007DB903 /* CAMediaTimingFunction+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CAMediaTimingFunction+Extension.swift"; sourceTree = "<group>"; };
+		CCCAF605259306B1007DB903 /* TextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
+		CCCAF606259306B1007DB903 /* CGPath+SVG.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CGPath+SVG.swift"; sourceTree = "<group>"; };
+		CCCAF607259306B1007DB903 /* UIView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		CCCAF608259306B1007DB903 /* NSMutableParagraphStyle+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSMutableParagraphStyle+Extension.swift"; sourceTree = "<group>"; };
+		CCCAF609259306B1007DB903 /* Timeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Timeline.swift; sourceTree = "<group>"; };
+		CCCAF60A259306B1007DB903 /* UIImage+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Extension.swift"; sourceTree = "<group>"; };
+		CCCAF60B259306B1007DB903 /* Sound.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sound.swift; sourceTree = "<group>"; };
+		CCCAF60C259306B1007DB903 /* NSShadow+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSShadow+Extension.swift"; sourceTree = "<group>"; };
+		CCCAF60D259306B1007DB903 /* CATransaction+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CATransaction+Extension.swift"; sourceTree = "<group>"; };
+		CCCAF61E25930727007DB903 /* Tree18View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tree18View.swift; sourceTree = "<group>"; };
+		CCCAF61F25930727007DB903 /* Timeline_18.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Timeline_18.swift; sourceTree = "<group>"; };
+		CCCAF6252593077F007DB903 /* TreeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeView.swift; sourceTree = "<group>"; };
+		CCCAF62A25931042007DB903 /* TreeScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeScene.swift; sourceTree = "<group>"; };
+		CCCAF62F25931191007DB903 /* TreeDeadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeDeadView.swift; sourceTree = "<group>"; };
+		CCCAF634259314C0007DB903 /* MagikScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MagikScene.sks; sourceTree = "<group>"; };
+		CCCAF635259314C0007DB903 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +139,7 @@
 			children = (
 				CCCAF5CC259301F1007DB903 /* ProbaSceneTreeApp.swift */,
 				CCCAF5CE259301F1007DB903 /* ContentView.swift */,
+				CCCAF5FF25930666007DB903 /* Arda */,
 				CCCAF5D0259301F3007DB903 /* Assets.xcassets */,
 				CCCAF5D5259301F3007DB903 /* Info.plist */,
 				CCCAF5D2259301F3007DB903 /* Preview Content */,
@@ -128,6 +171,42 @@
 				CCCAF5EB259301F4007DB903 /* Info.plist */,
 			);
 			path = ProbaSceneTreeUITests;
+			sourceTree = "<group>";
+		};
+		CCCAF5FF25930666007DB903 /* Arda */ = {
+			isa = PBXGroup;
+			children = (
+				CCCAF5FA25930324007DB903 /* ArdaView.swift */,
+				CCCAF62F25931191007DB903 /* TreeDeadView.swift */,
+				CCCAF634259314C0007DB903 /* MagikScene.sks */,
+				CCCAF635259314C0007DB903 /* Assets.xcassets */,
+				CCCAF62A25931042007DB903 /* TreeScene.swift */,
+				CCCAF61F25930727007DB903 /* Timeline_18.swift */,
+				CCCAF6252593077F007DB903 /* TreeView.swift */,
+				CCCAF61E25930727007DB903 /* Tree18View.swift */,
+				CCCAF60025930680007DB903 /* Animation */,
+			);
+			path = Arda;
+			sourceTree = "<group>";
+		};
+		CCCAF60025930680007DB903 /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				CCCAF601259306B1007DB903 /* Animation.swift */,
+				CCCAF603259306B1007DB903 /* CAKeyframeAnimation+Extension.swift */,
+				CCCAF604259306B1007DB903 /* CAMediaTimingFunction+Extension.swift */,
+				CCCAF60D259306B1007DB903 /* CATransaction+Extension.swift */,
+				CCCAF606259306B1007DB903 /* CGPath+SVG.swift */,
+				CCCAF608259306B1007DB903 /* NSMutableParagraphStyle+Extension.swift */,
+				CCCAF60C259306B1007DB903 /* NSShadow+Extension.swift */,
+				CCCAF602259306B1007DB903 /* ShapeView.swift */,
+				CCCAF60B259306B1007DB903 /* Sound.swift */,
+				CCCAF609259306B1007DB903 /* Timeline.swift */,
+				CCCAF607259306B1007DB903 /* UIView+Extension.swift */,
+				CCCAF60A259306B1007DB903 /* UIImage+Extension.swift */,
+				CCCAF605259306B1007DB903 /* TextView.swift */,
+			);
+			path = Animation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,6 +314,8 @@
 			files = (
 				CCCAF5D4259301F3007DB903 /* Preview Assets.xcassets in Resources */,
 				CCCAF5D1259301F3007DB903 /* Assets.xcassets in Resources */,
+				CCCAF637259314C0007DB903 /* Assets.xcassets in Resources */,
+				CCCAF636259314C0007DB903 /* MagikScene.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +340,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCCAF617259306B1007DB903 /* UIImage+Extension.swift in Sources */,
+				CCCAF616259306B1007DB903 /* Timeline.swift in Sources */,
+				CCCAF62025930727007DB903 /* Tree18View.swift in Sources */,
+				CCCAF615259306B1007DB903 /* NSMutableParagraphStyle+Extension.swift in Sources */,
+				CCCAF60F259306B1007DB903 /* ShapeView.swift in Sources */,
+				CCCAF63025931191007DB903 /* TreeDeadView.swift in Sources */,
+				CCCAF6262593077F007DB903 /* TreeView.swift in Sources */,
+				CCCAF62125930727007DB903 /* Timeline_18.swift in Sources */,
+				CCCAF612259306B1007DB903 /* TextView.swift in Sources */,
+				CCCAF62B25931042007DB903 /* TreeScene.swift in Sources */,
 				CCCAF5CF259301F1007DB903 /* ContentView.swift in Sources */,
+				CCCAF611259306B1007DB903 /* CAMediaTimingFunction+Extension.swift in Sources */,
+				CCCAF618259306B1007DB903 /* Sound.swift in Sources */,
+				CCCAF619259306B1007DB903 /* NSShadow+Extension.swift in Sources */,
+				CCCAF610259306B1007DB903 /* CAKeyframeAnimation+Extension.swift in Sources */,
+				CCCAF61A259306B1007DB903 /* CATransaction+Extension.swift in Sources */,
 				CCCAF5CD259301F1007DB903 /* ProbaSceneTreeApp.swift in Sources */,
+				CCCAF613259306B1007DB903 /* CGPath+SVG.swift in Sources */,
+				CCCAF60E259306B1007DB903 /* Animation.swift in Sources */,
+				CCCAF614259306B1007DB903 /* UIView+Extension.swift in Sources */,
+				CCCAF5FB25930324007DB903 /* ArdaView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
